@@ -12,7 +12,8 @@ class BirthdayGreetingActivity : AppCompatActivity() {
         setContentView(R.layout.activity_birthday_greeting)
 
 //        createBirthdayButton.setOnClickListener {
-//            Toast.makeText(this, "name",Toast.LENGTH_LONG).show()
+//            val name = nameInput.editableText.toString()
+//             Toast.makeText(this, "$name",Toast.LENGTH_LONG).show()
 //        }
     }
 
